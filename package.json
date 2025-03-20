@@ -3,8 +3,25 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "Loops.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Majek11/JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Majek11/JavaScript/issues"
+  },
+  "homepage": "https://github.com/Majek11/JavaScript#readme",
+  "description": ""
 }
